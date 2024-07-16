@@ -7,6 +7,10 @@
  z-index: 1100;
 }
 
+.text-left {
+  text-align: left !important;
+}
+
 .bs-canvas {
  top: 0;
  z-index: 1110;
